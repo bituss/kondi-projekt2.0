@@ -1,0 +1,154 @@
+
+        body {
+            margin: 0%;
+            background-color: rgb(255, 200, 246)
+        }
+        .header {
+            text-align: center;
+            background-color: rgba(253, 5, 179, 0.185);
+            border: black solid 10px;
+            padding: 50px;
+            background-image: url(https://i.pinimg.com/originals/90/2c/2e/902c2ef7c891a2023259469f9e3950bb.jpg);
+            background-repeat: no-repeat;
+            background-position: center ;
+            background-blend-mode: lighten;
+              }
+        .topnav {
+             background-color: black;
+             text-align: left;
+             text-decoration: none;
+             font-size: 20px;
+            padding: 10px;
+        }
+        .topnav a {
+            color: lavender;
+            text-decoration: none;
+            margin: 15px;
+        }
+        .topnav a:hover {
+            color:black;
+            background-color:palevioletred ;
+
+        }
+        .bibi {
+            font-family: fantasy;
+            margin: auto;
+            font-size: 70px;
+
+        }
+        .column {
+            text-decoration: solid;
+            font-size: 15px;
+            text-align: center;
+            background-color: rgb(247, 94, 239);
+            border:solid blueviolet 5px;
+            margin-left: 200px;
+            margin-right: 200px;
+        
+        }
+        .column2{ 
+            text-align: center;
+            
+            background-color: rgba(255, 255, 255, 0.486) ;
+
+
+
+        }
+        .cukorka{
+            
+            text-align: center;
+            background-color: lightgray;
+        }
+
+
+       .video{
+           margin-left: auto;
+           margin-right: auto;
+           display: block;
+
+
+
+       }
+       .video2{margin-left: auto;
+           margin-right: auto;
+           display: block;
+
+
+           }
+        .video3{margin-left: auto;
+           margin-right: auto;
+           display: block;
+
+
+
+           }
+           .cukika{
+               text-align: center;
+               font-size: 70px;
+               padding-top: 40px;
+               padding-bottom: 40px;
+               background-color: black;
+               color: azure; 
+               margin-top: 30px; 
+               margin-bottom: 80px;
+               border-style: double;
+               border-radius: 30px;
+        }
+        .joo{
+            text-align: center;
+            font-size: 50px;
+            font-family: fantasy;
+            margin-bottom: 50px;
+            background-color: black;
+            color:pink;
+            border-radius: 70px;
+            margin-left: 100px;
+            margin-right: 100px;
+        }
+        .gép{
+            text-align: center;
+            font-size: 50px;
+            font-family: fantasy;
+            margin-bottom: 50px;
+            background-color: black;
+            color:pink;
+            border-radius: 70px;
+            margin-left: 100px;
+            margin-right: 100px;
+        }
+        .img{
+            margin-left: 300px;
+            margin-bottom: 30px;
+        }
+        .cukkk{
+            margin-bottom: 30px;
+        }
+        .levi{ text-align: center;
+            font-size: 50px;
+            font-family: fantasy;
+            margin-bottom: 10px;
+            background-color: black;
+            color:pink;
+            border-radius: 70px;
+            margin-left: 100px;
+            margin-right: 100px;
+            margin-top: 40px;}
+        .bence{
+            text-align: center;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            height: 500px;
+        }
+        .idő{
+            text-align: center;
+            font-size: 30px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            margin-top: 10px;
+            background-color: black;
+            border-radius: 70px;
+            margin-left: 500px;
+            margin-right: 500px;
+            color: azure;
+        }
+
